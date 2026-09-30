@@ -1,2 +1,2 @@
 # task--tracker
-practise project for learning github project for
+practise project for learning github project managment
